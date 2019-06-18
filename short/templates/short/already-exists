@@ -1,0 +1,6 @@
+<div class="container">
+	<h1>Exists</h1>
+	<p>{{ object.url }}</p>
+	<p><a href='{{ object.shortcode }}'>{{ object.shortcode }}</a></p>
+	</div>
+
